@@ -137,7 +137,7 @@ marquee {
 /* Start Trail */
 
 .Wrapper {
-    background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(Images/trial.jpg);
+    background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(/Images/trial.jpg);
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -221,7 +221,7 @@ header .user img {
 /* Start View Section  */
 
 .view {
-    background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(Images/bg.jpg);
+    background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(/Images/bg.jpg);
     background-size: cover;
     background-position: center;
     text-align: center;
